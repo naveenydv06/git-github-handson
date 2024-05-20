@@ -4,12 +4,12 @@ I pushed index.html file from my Ubuntu local server to this Github repository u
 
 Below are the commands, I have used while doing this hands-on :
 
--git config --global user.name "username"
--git config --global user.email "emailid"
--mkdir git-project
--sudo nano index.html
--git add index.html
--git commit -m "Commit Comment"
--git push -u origin master
--git branch -v
--git branch "newbranchname"
+-git config --global user.name "username"</br>
+-git config --global user.email "emailid"</br>
+-mkdir git-project</br>
+-sudo nano index.html</br>
+-git add index.html</br>
+-git commit -m "Commit Comment"</br>
+-git push -u origin master</br>
+-git branch -v</br>
+-git branch "newbranchname"</br>
