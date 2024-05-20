@@ -1,5 +1,5 @@
 Hi there! I am Naveen Yadav..
-i have created this repository just to practice Git & Github. 
+i have created this repository just to practice Git & Github.</br> 
 In this repo i have pushed index.html file which is basically a basic Portfolio website i have created using Chatgpt..
 I pushed index.html file from my Ubuntu local server to this Github repository using git command..
 
